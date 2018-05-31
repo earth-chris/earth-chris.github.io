@@ -17,11 +17,11 @@
 - [stanford department of biology](https://biology.stanford.edu)
 - [salo](https://salo.ai)
 
-# used to be me
+## used to be me
 - [carnegie spectranomics project](https://spectranomics.carnegiescience.edu)
 - [carnegie airborne observatory](https://cao.carnegiescience.edu)
 
-# is this me?
+## is this me?
 - [no](https://en.wikipedia.org/wiki/Chris_Andersen)
 - [nope](https://en.wikipedia.org/wiki/Chris_Anderson_(writer))
 - [still no](https://en.wikipedia.org/wiki/Chris_Anderson_(entrepreneur))
