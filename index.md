@@ -1,5 +1,5 @@
 ## about me
-- i'm about the earth
+- i am about the earth
 
 ## see me
 - [google scholar](https://scholar.google.com/citations?user=LoGxS40AAAAJ&hl=en)
@@ -8,11 +8,8 @@
 - [library thing](http://www.librarything.com/catalog/anderzen)
 - [twitter](https://twitter.com/hypersketch)
 
-## see vee me
-- [cv](cv.pdf)
-
 ## read me
-- to be added shortly
+- [cv](assets/pdf/cv.pdf?raw=true)
 
 ## affilliate me
 - [stanford center for conservation biology](https://ccb.stanford.edu)
@@ -33,4 +30,4 @@
 - [stanford](mailto:cbanders@stanford.edu)
 - [salo](mailto:cba@salo.ai)
 
-![Alt text](assets/img/map-seated.png?raw=true "christopher b anderson is worldly")
+![christopher b anderson is worldly](assets/img/map-seated.png?raw=true "christopher b anderson is worldly")
