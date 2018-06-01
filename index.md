@@ -17,8 +17,8 @@
 
 ## read me
 - [cv](assets/pdf/cv.pdf?raw=true)
-- 2017 - [[web]()] [[pdf](assets/pdf/2017 Mapping forest traits for biodiversity conservation.pdf?raw=true) - mapping forest traits for biodiversity conservation
-- 2016 - [[web]()] [[pdf](assets/pdf/2016 Large-scale geophysical controls on LES.pdf?raw=true) - large-scale geophysical controls on leaf traits
+- 2017 - [[web]()] [[pdf](assets/pdf/2017 Mapping forest traits for biodiversity conservation.pdf?raw=true)] - mapping forest traits for biodiversity conservation
+- 2016 - [[web]()] [[pdf](assets/pdf/2016 Large-scale geophysical controls on LES.pdf?raw=true)] - large-scale geophysical controls on leaf traits
 - 2016 - [[web]()] [[pdf](assets/pdf/2016 Progressive canopy water loss california.pdf?raw=true)] - progressive drought stress in california's forests
 - 2016 - [[web]()] [[pdf](assets/pdf/2016 Tree species abundance in tropical agriculture landscapes.pdf?raw=true)] - tree species abundance in tropical agricultural landscapes
 - 2016 - [[web]()] [[pdf](assets/pdf/2016 Hemiparasite-host ecology at Jasper Ridge.pdf?raw=true)] - hemiparasite-host ecology in jasper ridge
