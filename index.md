@@ -17,7 +17,7 @@
 - [twitter](https://twitter.com/hypersketch)
 
 ## read me
-- here is my whole dang [cv](assets/pdf/cv.pdf?raw=true) (though it is *old*)
+- just take my whole dang [cv](assets/pdf/cv.pdf?raw=true) if you want
 - [[web](https://peerj.com/preprints/26972/)] [[pdf](assets/pdf/2018 CCB-ID approach to tree species mapping.pdf)] - 2018 - mapping tree species with *ccb-id*
 - [[web](http://science.sciencemag.org/content/355/6323/385.abstract)] [[pdf](assets/pdf/2017 Mapping forest traits for biodiversity conservation.pdf?raw=true)] - 2017 - mapping forest traits for biodiversity conservation
 - [[web](http://onlinelibrary.wiley.com/doi/10.1111/nph.14068/full)] [[pdf](assets/pdf/2017 - Scale dependence in canopy traits in Andes.pdf)] - 2017 - scale dependence of trait distributions along an elevation gradient
