@@ -10,8 +10,10 @@
 ## see me
 - [google scholar](https://scholar.google.com/citations?user=LoGxS40AAAAJ&hl=en)
 - [researchgate](https://www.researchgate.net/profile/Christopher_Anderson22)
+- [linkedin](https://www.linkedin.com/in/christopher-anderson-424b8a30/)
 - [orcid](https://orcid.org/0000-0001-7392-4368)
 - [peerj](https://peerj.com/cbanderson/)
+- [academia](https://stanford.academia.edu/ChristopherAnderson)
 - [natcap](https://www.naturalcapitalproject.org/people/#students)
 - [library thing](http://www.librarything.com/catalog/anderzen)
 - [twitter](https://twitter.com/hypersketch)
