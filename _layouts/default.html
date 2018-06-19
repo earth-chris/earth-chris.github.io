@@ -13,23 +13,27 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+      <div class="center">
+        <header>
+          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
+          {% if site.logo %}
+            <img src="{{site.logo | relative_url}}" alt="Logo" />
+          {% endif %}
+
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        </header>
+      </div>
       <section>
 
       {{ content }}
 
       </section>
-      <footer>
-        <p><small>i have created a monster &mdash;</small></p>
-      </footer>
+      <div class="center">
+        <footer>
+          <p><small>i created a monster</small></p>
+        </footer>
+      </div>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
