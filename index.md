@@ -20,7 +20,7 @@
 
 ## read me
 - just take my whole dang [cv](assets/pdf/cv.pdf?raw=true) if you want
-- [[web](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13106)] [...] - 2018 - biodiversity monitoring, earth observations and the ecology of scale
+- [[web](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13106)] [pdf](assets/pdf/2018 - Biodiversity monitoring and the ecology of scale.pdf)] - 2018 - biodiversity monitoring, earth observations and the ecology of scale
 - [[web](https://peerj.com/preprints/26972/)] [[pdf](assets/pdf/2018 CCB-ID approach to tree species mapping.pdf)] - 2018 - mapping tree species with *ccb-id*
 - [[web](http://science.sciencemag.org/content/355/6323/385.abstract)] [[pdf](assets/pdf/2017 Mapping forest traits for biodiversity conservation.pdf?raw=true)] - 2017 - mapping forest traits for biodiversity conservation
 - [[web](http://onlinelibrary.wiley.com/doi/10.1111/nph.14068/full)] [[pdf](assets/pdf/2017 - Scale dependence in canopy traits in Andes.pdf)] - 2017 - scale dependence of trait distributions along an elevation gradient
@@ -47,7 +47,7 @@
 - [[web](https://www.sciencedirect.com/science/article/pii/S0034425712002489)] [[pdf](assets/pdf/2012 CAO-2.pdf?raw=true)] - 2012 - carnegie airborne observatory two
 - [[web](https://www.sciencedirect.com/science/article/pii/S0034425711003245)] [[pdf](assets/pdf/2011 Spectroscopy of canopy chemicals in humid tropical forests.pdf?raw=true)] - 2011 - spectroscopy of canopy chemicals in tropical forests
 
-## machine me
+## code me
 - [ccb-id](https://github.com/stanford-ccb/ccb-id)
 - [aei-py](https://github.com/christobal54/aei-py)
 
@@ -70,4 +70,4 @@
 - [stanford](mailto:cbanders@stanford.edu)
 - [salo](mailto:cba@salo.ai)
 
-![christopher b anderson is worldly](assets/img/map-seated.jpg?raw=true "christopher b anderson is worldly")
+![worldly me](assets/img/map-seated.jpg?raw=true "christopher b anderson is worldly")
