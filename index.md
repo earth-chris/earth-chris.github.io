@@ -4,23 +4,22 @@
   </head>
 </html>
 
-## about me
-- i am about the earth
+## About me
 
-## see me
-- [google scholar](https://scholar.google.com/citations?user=LoGxS40AAAAJ&hl=en)
-- [researchgate](https://www.researchgate.net/profile/Christopher_Anderson22)
-- [linkedin](https://www.linkedin.com/in/christopher-b-anderson/)
-- [orcid](https://orcid.org/0000-0001-7392-4368)
-- [peerj](https://peerj.com/cbanderson/)
-- [academia](https://stanford.academia.edu/ChristopherAnderson)
-- [natcap](https://www.naturalcapitalproject.org/people/#students)
-- [library thing](http://www.librarything.com/catalog/anderzen)
-- [twitter](https://twitter.com/hypersketch)
+I'm about the earth. 
 
-## read me
+I'm the co-founder and CTO of [Salo](https://salo.ai), a conservation analytics & monitoring company, and a PhD student at Stanford University in the Center for Conservation Biology. I map biodiversity and climate change with satellites, which is pretty neat.
+
+## Science
+
+I've spent my career as a research ecologist. My skills include processing, analyzing & visualizing ecologial data, which I've used to help understand the evolutionary, environmental & spatial drivers of species diversity and carbon storage. We're building Salo to further develop these themes by applying novel technological approaches for mapping biodiversity to large-scale conservation and restoration efforts. We're seeing tons of opportunities to use global ecological data and science to better manage ecosystems worldwide, which I think is also pretty neat. 
+
+Below is a list of the peer-reviewed scientific publications I've contributed to as an author. You can access my full cv [here](assets/pdf/cv.pdf?raw=true).
+
+- [[web](https://www.sciencedirect.com/science/article/pii/S0048969719306382)] [[pdf](2019 EO ES.pdf)] - 2019 - linking earth observations and ecosystem services
 - [[web](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13106)] [pdf](assets/pdf/2018 - Biodiversity monitoring and the ecology of scale.pdf)] - 2018 - biodiversity monitoring, earth observations and the ecology of scale
 - [[web](https://peerj.com/articles/5666/)] [[pdf](assets/pdf/2018 CCB-ID approach to tree species mapping.pdf)] - 2018 - mapping tree species with *ccb-id*
+- [[web](https://www.nature.com/articles/s41559-018-0709-x)] [[pdf](assets/pdf/2018 Are ecoregions a thing.pdf)] - 2018 - mapping where ecoregions matter
 - [[web](http://science.sciencemag.org/content/355/6323/385.abstract)] [[pdf](assets/pdf/2017 Mapping forest traits for biodiversity conservation.pdf?raw=true)] - 2017 - mapping forest traits for biodiversity conservation
 - [[web](http://onlinelibrary.wiley.com/doi/10.1111/nph.14068/full)] [[pdf](assets/pdf/2017 - Scale dependence in canopy traits in Andes.pdf)] - 2017 - scale dependence of trait distributions along an elevation gradient
 - [[web](http://www.pnas.org/content/113/28/E4043.short)] [[pdf](assets/pdf/2016 Large-scale geophysical controls on LES.pdf?raw=true)] - 2016 - large-scale geophysical controls on leaf traits
@@ -45,29 +44,45 @@
 - [[web](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085993)] [[pdf](assets/pdf/2013 A tale of two forests.pdf?raw=true)] - 2013 - joe mascaro likes puns
 - [[web](https://www.sciencedirect.com/science/article/pii/S0034425712002489)] [[pdf](assets/pdf/2012 CAO-2.pdf?raw=true)] - 2012 - carnegie airborne observatory two
 - [[web](https://www.sciencedirect.com/science/article/pii/S0034425711003245)] [[pdf](assets/pdf/2011 Spectroscopy of canopy chemicals in humid tropical forests.pdf?raw=true)] - 2011 - spectroscopy of canopy chemicals in tropical forests
-- just take my whole dang [cv](assets/pdf/cv.pdf?raw=true) if you want
 
-## code me
-- [ccb-id](https://github.com/stanford-ccb/ccb-id)
-- [aei-py](https://github.com/christobal54/aei-py)
+## Software
 
-## affilliate me
-- [center for conservation biology](https://ccb.stanford.edu)
-- [stanford biology](https://biology.stanford.edu)
+I lead development of the `salo` python package as CTO at Salo, which will shortly become available as an open source library. I've lead one other public-facing software project, `ccb-id`, and I maintain a personal python library.
+
+- [ccb-id](https://github.com/stanford-ccb/ccb-id) - a tree species mapping package, which was developed for [this paper](https://peerj.com/articles/5666/) as part of a [data science competition](https://peerj.com/articles/5843/). *ccb-id* ranked first in predictive accuracy among all participants, outperforming methods developed by researcher groups from five other universities.
+- [aei-py](https://github.com/christobal54/aei-py) - my personal python package repository
+
+## Current affiliations
+
 - [salo](https://salo.ai)
+- [stanford biology](https://biology.stanford.edu)
+- [center for conservation biology](https://ccb.stanford.edu)
+- [natural capital project](https://www.naturalcapitalproject.org/people/#students)
 
-## was me
+## Former affiliations
+
 - [carnegie spectranomics project](https://cao.carnegiescience.edu/spectranomics)
 - [carnegie airborne observatory](https://cao.carnegiescience.edu)
 
-## is this me?
+## ...are you these Chris Andersons?
+
 - [this is not me](https://en.wikipedia.org/wiki/Chris_Andersen)
 - [this, too, is not me](https://en.wikipedia.org/wiki/Chris_Anderson_(writer))
 - [still not me](https://en.wikipedia.org/wiki/Chris_Anderson_(entrepreneur))
 - [i can see why you might think this is me, but this is not me](https://en.wikipedia.org/wiki/Christopher_B._Anderson)
 
-## contact me
-- [stanford](mailto:cbanders@stanford.edu)
-- [salo](mailto:cba@salo.ai)
+## Contact
 
-![worldly me](assets/img/map-seated.jpg?raw=true "chris is worldly")
+- [stanford email](mailto:cbanders@stanford.edu)
+- [salo email](mailto:cba@salo.ai)
+- [github](https://github.com/earth-chris)
+- [twitter](https://twitter.com/hypersketch)
+- [linkedin](https://www.linkedin.com/in/christopher-b-anderson/)
+- [google scholar](https://scholar.google.com/citations?user=LoGxS40AAAAJ&hl=en)
+- [researchgate](https://www.researchgate.net/profile/Christopher_Anderson22)
+- [orcid](https://orcid.org/0000-0001-7392-4368)
+- [peerj](https://peerj.com/cbanderson/)
+- [academia](https://stanford.academia.edu/ChristopherAnderson)
+- [library thing](http://www.librarything.com/catalog/anderzen)
+
+![earth chris](assets/img/map-seated.jpg?raw=true "earth chris")
