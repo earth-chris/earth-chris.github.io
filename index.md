@@ -17,7 +17,7 @@ I've spent my career as a research ecologist. My skills include processing, anal
 Below is a list of the peer-reviewed scientific publications I've contributed to as an author. You can access my full cv [here](assets/pdf/cv.pdf?raw=true).
 
 - [[web](https://www.sciencedirect.com/science/article/pii/S0048969719306382)] [[pdf](2019 EO ES.pdf)] - 2019 - linking earth observations and ecosystem services
-- [[web](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13106)] [pdf](assets/pdf/2018 - Biodiversity monitoring and the ecology of scale.pdf)] - 2018 - biodiversity monitoring, earth observations and the ecology of scale
+- [[web](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13106)] [[pdf](assets/pdf/2018 - Biodiversity monitoring and the ecology of scale.pdf)] - 2018 - biodiversity monitoring, earth observations and the ecology of scale
 - [[web](https://peerj.com/articles/5666/)] [[pdf](assets/pdf/2018 CCB-ID approach to tree species mapping.pdf)] - 2018 - mapping tree species with *ccb-id*
 - [[web](https://www.nature.com/articles/s41559-018-0709-x)] [[pdf](assets/pdf/2018 Are ecoregions a thing.pdf)] - 2018 - mapping where ecoregions matter
 - [[web](http://science.sciencemag.org/content/355/6323/385.abstract)] [[pdf](assets/pdf/2017 Mapping forest traits for biodiversity conservation.pdf?raw=true)] - 2017 - mapping forest traits for biodiversity conservation
@@ -47,10 +47,10 @@ Below is a list of the peer-reviewed scientific publications I've contributed to
 
 ## Software
 
-I lead development of the `salo` python package as CTO at Salo, which will shortly become available as an open source library. I've lead one other public-facing software project, `ccb-id`, and I maintain a personal python library.
+I lead development of the `salo` python package as CTO at Salo, which will soon be available as an open source library. I've lead one other public-facing software project, *ccb-id*, and I maintain a personal python library.
 
-- [ccb-id](https://github.com/stanford-ccb/ccb-id) - a tree species mapping package, which was developed for [this paper](https://peerj.com/articles/5666/) as part of a [data science competition](https://peerj.com/articles/5843/). *ccb-id* ranked first in predictive accuracy among all participants, outperforming methods developed by researcher groups from five other universities.
-- [aei-py](https://github.com/christobal54/aei-py) - my personal python package repository
+- [ccb-id](https://github.com/stanford-ccb/ccb-id) - a tree species mapping package for imaging spectroscopy data, which was developed for this [data science competition](https://peerj.com/articles/5843/). It ranked first in predictive accuracy among all participants, outperforming methods developed by researcher groups from five other universities.
+- [aei-py](https://github.com/christobal54/aei-py) - my personal python package repository. nothin' special.
 
 ## Current affiliations
 
