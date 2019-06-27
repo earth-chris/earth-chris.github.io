@@ -76,7 +76,7 @@ I lead development of the `salo` python package as CTO at Salo, which will soon 
 - [stanford email](mailto:cbanders@stanford.edu)
 - [salo email](mailto:cba@salo.ai)
 - [github](https://github.com/earth-chris)
-- [twitter](https://twitter.com/hypersketch)
+- [twitter](https://twitter.com/earth_chris)
 - [linkedin](https://www.linkedin.com/in/christopher-b-anderson/)
 - [google scholar](https://scholar.google.com/citations?user=LoGxS40AAAAJ&hl=en)
 - [researchgate](https://www.researchgate.net/profile/Christopher_Anderson22)
