@@ -17,7 +17,7 @@
           <h1 style="text-align:center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
           {% if site.logo %}
-            <img src="{{site.logo | relative_url}}" alt="Logo" />
+            <img style="margin:auto; display:block;" src="{{site.logo | relative_url}}" alt="Logo" />
           {% endif %}
 
           <p style="text-align:center">{{ site.description | default: site.github.project_tagline }}</p>
