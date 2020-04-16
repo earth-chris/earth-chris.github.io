@@ -8,7 +8,7 @@
 
 I'm about the earth. 
 
-I'm the co-founder and CTO of [Salo](https://salo.ai), a conservation analytics & monitoring company, and a PhD student at Stanford University in the Center for Conservation Biology. I map biodiversity and climate change with satellites, which is pretty neat.
+I'm the co-founder and CTO of [Salo](https://salo.ai), a conservation analytics & monitoring company, and a PhD student at Stanford University in the [Center for Conservation Biology](https://ccb.stanford.edu). I map biodiversity and climate change with satellites, which is pretty neat.
 
 ## Science
 
@@ -16,8 +16,10 @@ I've spent my career as a research ecologist. My skills include processing, anal
 
 Below is a list of the peer-reviewed scientific publications I've contributed to as an author. You can access my full cv [here](assets/pdf/cv.pdf?raw=true).
 
-- [[web](https://www.sciencedirect.com/science/article/pii/S0048969719306382)] [[pdf](2019 EO ES.pdf)] - 2019 - linking earth observations and ecosystem services
-- [[web](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13106)] [[pdf](assets/pdf/2018 - Biodiversity monitoring and the ecology of scale.pdf)] - 2018 - biodiversity monitoring, earth observations and the ecology of scale
+- [[web](http://dx.doi.org/10.1038/s41586-020-2090-6)] [pdf] - 2020 - drivers of long-term shifts in bird community structure
+- [[web](https://advances.sciencemag.org/content/5/7/eaax0903)] [[pdf](assets/pdf/2019 Nature and mental health.pdf?raw=true)] - 2019 - nature's mental health benefits as an ecosystem service
+- [[web](https://www.sciencedirect.com/science/article/pii/S0048969719306382)] [[pdf](assets/pdf/2019 EO ES.pdf?raw=true)] - 2019 - linking earth observations and ecosystem services
+- [[web](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13106)] [[pdf](assets/pdf/2018 - Biodiversity monitoring and the ecology of scale.pdf?raw=true)] - 2018 - biodiversity monitoring, earth observations and the ecology of scale
 - [[web](https://peerj.com/articles/5666/)] [[pdf](assets/pdf/2018 CCB-ID approach to tree species mapping.pdf)] - 2018 - mapping tree species with *ccb-id*
 - [[web](https://www.nature.com/articles/s41559-018-0709-x)] [[pdf](assets/pdf/2018 Are ecoregions a thing.pdf)] - 2018 - mapping where ecoregions matter
 - [[web](http://science.sciencemag.org/content/355/6323/385.abstract)] [[pdf](assets/pdf/2017 Mapping forest traits for biodiversity conservation.pdf?raw=true)] - 2017 - mapping forest traits for biodiversity conservation
