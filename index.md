@@ -16,7 +16,7 @@ I've spent my career as a research ecologist. My skills include processing, anal
 
 Below is a list of the peer-reviewed scientific publications I've contributed to as an author. You can access my full cv [here](assets/pdf/cv.pdf?raw=true).
 
-- [[web](http://dx.doi.org/10.1038/s41586-020-2090-6)] [pdf] - 2020 - drivers of long-term shifts in bird community structure
+- [[web](http://dx.doi.org/10.1038/s41586-020-2090-6)] [[pdf](assets/pdf/2020 - Long term bird shifts.pdf?raw=true)] - 2020 - drivers of long-term shifts in bird community structure
 - [[web](https://advances.sciencemag.org/content/5/7/eaax0903)] [[pdf](assets/pdf/2019 Nature and mental health.pdf?raw=true)] - 2019 - nature's mental health benefits as an ecosystem service
 - [[web](https://www.sciencedirect.com/science/article/pii/S0048969719306382)] [[pdf](assets/pdf/2019 EO ES.pdf?raw=true)] - 2019 - linking earth observations and ecosystem services
 - [[web](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13106)] [[pdf](assets/pdf/2018 - Biodiversity monitoring and the ecology of scale.pdf?raw=true)] - 2018 - biodiversity monitoring, earth observations and the ecology of scale
