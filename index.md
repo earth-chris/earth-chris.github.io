@@ -8,11 +8,13 @@
 
 I'm about the earth. 
 
-I'm the co-founder and CTO of [Salo](https://salo.ai), a conservation analytics & monitoring company, and a PhD student at Stanford University in the [Center for Conservation Biology](https://ccb.stanford.edu). I map biodiversity and climate change with satellites, which is pretty neat.
+I'm the co-founder and CTO of [Salo Sciences](https://salo.ai), a conservation analytics & monitoring company, and a researcher at Stanford University in the [Center for Conservation Biology](https://ccb.stanford.edu). I map biodiversity and climate change with satellites, which is pretty neat.
+
+I lead the design and development of the [California Forest Observatory](https://forestobservatory.com/), a data-driven forest monitoring system that maps the drivers of wildfire hazard across the state—including forest structure, weather, topography & infrastructure—from space.
 
 ## Science
 
-I've spent my career as a research ecologist. My skills include processing, analyzing & visualizing ecologial data, which I've used to help understand the evolutionary, environmental & spatial drivers of species diversity and carbon storage. We're building Salo to further develop these themes by applying novel technological approaches for mapping biodiversity to large-scale conservation and restoration efforts. We're seeing tons of opportunities to use global ecological data and science to better manage ecosystems worldwide, which I think is also pretty neat. 
+I've spent my career as a research ecologist. My skills include processing, analyzing & visualizing ecologial data, which I've used to help understand the evolutionary, environmental & spatial drivers of species diversity and carbon storage. We're building Salo Sciences to further develop these themes by applying novel technological approaches for mapping biodiversity to large-scale conservation and restoration efforts. We're seeing tons of opportunities to use global ecological data and science to better manage ecosystems worldwide, which I think is also pretty neat. 
 
 Below is a list of the peer-reviewed scientific publications I've contributed to as an author. You can access my full cv [here](assets/pdf/cv.pdf?raw=true).
 
@@ -56,7 +58,7 @@ I lead development of the `salo` python package as CTO at Salo, which will soon 
 
 ## Current affiliations
 
-- [salo](https://salo.ai)
+- [salo sciences](https://salo.ai)
 - [stanford biology](https://biology.stanford.edu)
 - [center for conservation biology](https://ccb.stanford.edu)
 - [natural capital project](https://www.naturalcapitalproject.org/people/#students)
@@ -73,7 +75,7 @@ I lead development of the `salo` python package as CTO at Salo, which will soon 
 - [still not me](https://en.wikipedia.org/wiki/Chris_Anderson_(entrepreneur))
 - [i can see why you might think this is me, but this is not me](https://en.wikipedia.org/wiki/Christopher_B._Anderson)
 
-## Contact
+## Links
 
 - [stanford email](mailto:cbanders@stanford.edu)
 - [salo email](mailto:cba@salo.ai)
