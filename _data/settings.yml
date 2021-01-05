@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Christopher Anderson
-  site_tagline: Earth scientist.
+  site_tagline: Earth scientist
   favicon_image: /images/satellite-favicon.png
 
 header_settings:
@@ -9,7 +9,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
     - title: 'About'
       url: '/about'
