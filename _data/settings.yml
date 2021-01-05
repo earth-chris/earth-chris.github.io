@@ -1,10 +1,10 @@
 basic_settings:
   site_title: Christopher Anderson
   site_tagline: Earth scientist.
-  favicon_image: /images/favicon.png
+  favicon_image: /images/satellite-favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image: /images/satellite-icon.jpg
   logo_width: 200
 
 menu_settings:
@@ -57,7 +57,7 @@ social_settings:
 color_settings:
   background_color: '#ffffff'
   background_alt_color: '#F5F7FA'
-  text_dark_color: '#2A2F36'
+  text_dark_color: '#222222'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
   accent_color: '#0C5DF2'
