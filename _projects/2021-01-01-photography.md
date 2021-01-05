@@ -3,7 +3,7 @@ title: 'Photography'
 subtitle: 'From above and below'
 date: 2021-01-02 00:00:00
 description: Nature photography from the ground and from the sky.
-featured_image: "/images/software/code-block.jpg"
+featured_image: "/images/photography/amazon.jpg"
 ---
 
 <div class="gallery" data-columns="3">
