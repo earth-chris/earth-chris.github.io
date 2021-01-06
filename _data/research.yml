@@ -1,9 +1,4 @@
 -
-    title: My CV
-    journal:
-    thumbnail: "/images/research/cv.jpg"
-    url: "/pdf/cv.pdf"
--
     title: Long-term shifts in tropical bird communities
     journal: Nature
     thumbnail: "/images/research/2020 Long term bird shifts.jpg"
@@ -153,3 +148,8 @@
     journal: Remote sensing of Environment
     thumbnail: "/images/research/2011 Spectroscopy of canopy chemicals in humid tropical forests.jpg"
     url: '/pdf/2011 Spectroscopy of canopy chemicals in humid tropical forests.pdf'
+-
+    title: CV
+    journal: Curriculum Vitae
+    thumbnail: "/images/research/cv.jpg"
+    url: "/pdf/cv.pdf"
