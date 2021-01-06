@@ -11,17 +11,13 @@
 .header {
 	padding: 20px;
 
-	@include mq(tabletp) {
-		padding: 40px;
-	}
-
 	@include mq(tabletl) {
 		position: fixed;
 		overflow: auto;
 		top: 0;
 		left: 0;
 		bottom: 0;
-		width: 30%;
+		width: 33%;
 		padding: 0;
 	}
 }
@@ -62,6 +58,8 @@
 	letter-spacing: $sitetitle-spacing;
 	line-height: 1;
 	color: $text-dark-color;
+	display: inline-block;
+    vertical-align: middle;
 
 	&:hover {
 		color: $accent-color;
@@ -69,7 +67,12 @@
 
 	@include mq(tabletp) {
 		font-size: $sitetitle-medium;
+		margin-top: 30px;
 	}
+	
+	@include mq(tabletl) {
+        margin-top: 0px;
+    }
 
 	@include mq(laptop) {
 		font-size: $sitetitle-large;
