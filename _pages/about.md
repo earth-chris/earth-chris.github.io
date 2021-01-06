@@ -13,7 +13,7 @@ Our planet is beautiful and wonderful and it is changing very quickly. Following
 
 This site is a portfolio of the work I've done in support of these goals. I focus on creating works that integrate images, words & numbers, working to provide insights that are informative as well as intuitive. 
 
-You can read more about the scientific publications I've led or co-authored in the [Research](/projects/research) section. The [Design](/projects/design) section features digital artwork and scientific figures I've created. You can learn more about the open source [Software](/projects/software) I've developed for earth science, and browse a collection of featured [Photography](/projects/photography) from my travels to forests around the world.
+You can read more about the scientific publications I've led or co-authored in the [Research](/project/research) section. The [Design](/project/design) section features digital artwork and scientific figures I've created. You can learn more about the open source [Software](/project/software) I've developed for earth science, and browse a collection of featured [Photography](/project/photography) from my travels to forests around the world.
 
 Thanks for reading. Be excellent to each other.
 
