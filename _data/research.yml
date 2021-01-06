@@ -1,0 +1,155 @@
+-
+    title: My CV
+    journal:
+    thumbnail: "/images/research/cv.jpg"
+    url: "/pdf/cv.pdf"
+-
+    title: Long-term shifts in tropical bird communities
+    journal: Nature
+    thumbnail: "/images/research/2020 Long term bird shifts.jpg"
+    url: '/pdf/2020 Long term bird shifts.pdf'
+-
+    title: Nature experience as an ecosystem service
+    journal: Nature sustainability
+    thumbnail: "/images/research/2019 Nature and mental health.jpg"
+    url: '/pdf/2019 Nature and mental health.pdf'
+-
+    title: Frontiers for earth observations in ecosystem services
+    journal: Science of the Total Environment
+    thumbnail: "/images/research/2019 EO ES.jpg"
+    url: '/pdf/2019 EO ES.pdf'
+-
+    title: Tree species classification
+    journal: PeerJ
+    thumbnail: "/images/research/2018 CCB-ID approach to tree species mapping.jpg"
+    url: '/pdf/2018 CCB-ID approach to tree species mapping.pdf'
+-
+    title: Scale in ecology and remote sensing
+    journal: Ecology Letters
+    thumbnail: "/images/research/2018 Biodiversity monitoring and the ecology of scale.jpg"
+    url: "/pdf/2018 Biodiversity monitoring and the ecology of scale.pdf"
+-
+    title: Do ecoregions contain different species
+    journal: Nature Ecology and Evolution
+    thumbnail: "/images/research/2018 Are ecoregions a thing.jpg"
+    url: '/pdf/2018 Are ecoregions a thing.pdf'
+-
+    title: Scale dependence in canopy trait expression
+    journal: New Phytologist
+    thumbnail: "/images/research/2017 Scale dependence in canopy traits in Andes.jpg"
+    url: '/pdf/2017 Scale dependence in canopy traits in Andes.pdf'
+-
+    title: Revealing the diversity of the Amazon
+    journal: Science
+    thumbnail: "/images/research/2017 Mapping forest traits for biodiversity conservation.jpg"
+    url: '/pdf/2017 Mapping forest traits for biodiversity conservation.pdf'
+-
+    title: Tree species mapping in Panama
+    journal: Remote Sensing
+    thumbnail: "/images/research/2016 Tree species abundance in tropical agriculture landscapes.jpg"
+    url: '/pdf/2016 Tree species abundance in tropical agriculture landscapes.pdf'
+-
+    title: Progressive drought stress in California's forests
+    journal: PNAS
+    thumbnail: "/images/research/2016 Progressive canopy water loss california.jpg"
+    url: '/pdf/2016 Progressive canopy water loss california.pdf'
+-
+    title: Geophysical controls on canopy trait distributions
+    journal: PNAS
+    thumbnail: "/images/research/2016 Large-scale geophysical controls on LES.jpg"
+    url: '/pdf/2016 Large-scale geophysical controls on LES.pdf'
+-
+    title: Oak hemiparasite mapping
+    journal: Ecological Applications
+    thumbnail: "/images/research/2016 Hemiparasite-host ecology at Jasper Ridge.jpg"
+    url: '/pdf/2016 Hemiparasite-host ecology at Jasper Ridge.pdf'
+-
+    title: Peru-wide carbon mapping
+    journal: PNAS
+    thumbnail: "/images/research/2015 Targeted carbon conservation at national scales.jpg"
+    url: '/pdf/2015 Targeted carbon conservation at national scales.pdf'
+-
+    title: Regional drivers of Amazon structure and function
+    journal: PLOS One
+    thumbnail: "/images/research/2015 Regional drivers of Amazon structure and function.jpg"
+    url: '/pdf/2015 Regional drivers of Amazon structure and function.pdf'
+-
+    title: Large-scale airborne canopy trait mapping
+    journal: Remote Sensing of Environment
+    thumbnail: "/images/research/2015 Quantifying forest canopy traits with imaging spectroscopy.jpg"
+    url: '/pdf/2015 Quantifying forest canopy traits with imaging spectroscopy.pdf'
+-
+    title: Tree species mapping on BCI
+    journal: PLOS One
+    thumbnail: "/images/research/2015 Operational species mapping on BCI.jpg"
+    url: '/pdf/2015 Operational species mapping on BCI.pdf'
+-
+    title: Species diversity mapping in Panama
+    journal: Remote Sensing of Environment
+    thumbnail: "/images/research/2015 Mesoscale assessment of species richness, Panama.jpg"
+    url: '/pdf/2015 Mesoscale assessment of species richness, Panama.pdf'
+-
+    title: Carbon mapping in Osa, Costa Rica
+    journal: PLOS One
+    thumbnail: "/images/research/2015 Landscape controls on Osa carbon stocks.jpg"
+    url: '/pdf/2015 Landscape controls on Osa carbon stocks.pdf'
+-
+    title: Canopy biogeochemistry in the Amazon lowlands
+    journal: Nature Geoscience
+    thumbnail: "/images/research/2015 Biogeochemistry of lowland Amazon forests.jpg"
+    url: '/pdf/2015 Biogeochemistry of lowland Amazon forests.pdf'
+-
+    title: Bias in estimates of forest structure
+    journal: PNAS
+    thumbnail: "/images/research/2015 Amazonian landscapes and the bias in field studies.jpg"
+    url: '/pdf/2015 Amazonian landscapes and the bias in field studies.pdf'
+-
+    title: The carbon geography of Peru
+    journal: PNAS
+    thumbnail: "/images/research/2014 The carbon geography of Peru.jpg"
+    url: '/pdf/2014 The carbon geography of Peru.pdf'
+-
+    title: Understory community mapping in Panama
+    journal: Remote Sensing of Environment
+    thumbnail: "/images/research/2014 Linking imaging spectroscopy and LiDAR with floristic composition.jpg"
+    url: '/pdf/2014 Linking imaging spectroscopy and LiDAR with floristic composition.pdf'
+-
+    title: Forest structure changes along elevation gradients
+    journal: Biogeosciences
+    thumbnail: "/images/research/2014 Landscape-scale changes in forest structure along an elevation gradient.jpg"
+    url: '/pdf/2014 Landscape-scale changes in forest structure along an elevation gradient.pdf'
+-
+    title: Biological diversity of foliar spectra
+    journal: New Phytologist
+    thumbnail: "/images/research/2014 Functional and biological diversity of foliar spectra.jpg"
+    url: '/pdf/2014 Functional and biological diversity of foliar spectra.pdf'
+-
+    title: Functional diversity from canopy chemistry
+    journal: PNAS
+    thumbnail: "/images/research/2014 Amazonian functional diversity from forest canopy chemical assembly.jpg"
+    url: '/pdf/2014 Amazonian functional diversity from forest canopy chemical assembly.pdf'
+-
+    title: Carbon mapping in Panama
+    journal: Carbon Balance and Management
+    thumbnail: "/images/research/2013 High-fidelity national carbon mapping.jpg"
+    url: '/pdf/2013 High-fidelity national carbon mapping.pdf'
+-
+    title: Forest canopy gap dynamics in Peru
+    journal: PLOS One
+    thumbnail: "/images/research/2013 Forest canopy gaps in the southern peruvian amazon.jpg"
+    url: '/pdf/2013 Forest canopy gaps in the southern peruvian amazon.pdf'
+-
+    title: A tale of two forests
+    journal: PLOS One
+    thumbnail: "/images/research/2013 A tale of two forests.jpg"
+    url: '/pdf/2013 A tale of two forests.pdf'
+-
+    title: The Carnegie Airborne Observatory
+    journal: Remote sensing of Environment
+    thumbnail: "/images/research/2012 CAO-2.jpg"
+    url: '/pdf/2012 CAO-2.pdf'
+-
+    title: Spectroscopy of canopy chemicals in the tropics
+    journal: Remote sensing of Environment
+    thumbnail: "/images/research/2011 Spectroscopy of canopy chemicals in humid tropical forests.jpg"
+    url: '/pdf/2011 Spectroscopy of canopy chemicals in humid tropical forests.pdf'
