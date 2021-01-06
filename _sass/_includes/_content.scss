@@ -241,10 +241,10 @@
 		background: $background-color;
 		font-size: 10px;
 		text-align: center;
-		color: $text-light-color;
+		color: $text-dark-color;
 
 		&:hover {
-			background: $text-light-color;
+			background: $text-medium-color;
 			color: $background-color;
 		}
 	}
