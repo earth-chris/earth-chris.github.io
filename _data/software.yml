@@ -12,7 +12,7 @@
     title: elapid
     description: Python wrapper for Maxent SDM software
     thumbnail: "/images/software/elapid.jpg"
-    url: "https://github.com/stanford-ccb/ccb"
+    url: "https://github.com/earth-chris/elapid"
 -
     title: cfo-api
     description: Python access to the Forest Observatory API
