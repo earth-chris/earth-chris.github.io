@@ -5,7 +5,7 @@ description: I defended my dissertation last week and now I'm an earth doctor.
 featured_image: '/images/posts/tree-from-space.png'
 ---
 
-I defended my dissertation last week and now I'm an earth doctor. Hooray! 
+I defended my dissertation last week and now I'm an earth doctor. Hooray!
 
 In this work, I sought to further develop the technical and conceptual basis for building global biodiversity monitoring systems using satellite earth observations data.
 
@@ -31,6 +31,6 @@ You can find links to the chapters I've already published in the [research](/pro
 
 I'll embed the video on this site as soon as a youtube link becomes available. For now, enjoy a placeholder with one of my favorite songs.
 
-<iframe src="https://www.youtube.com/watch?v=pIOM8mCS1fk" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/pIOM8mCS1fk" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Cheers,
