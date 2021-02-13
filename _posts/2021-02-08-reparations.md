@@ -23,7 +23,7 @@ testing
 
 {% for essay in site.data.reparations.essays %}
 
-- {{ essay.author }}, "{{ essay.title }}" [[{{ essay.publisher }}]({{ essay.url }}] [<a target="_blank" href="{{ essay.pdf | relative_url }}">PDF</a>]
+- {{ essay.author }}, "{{ essay.title }}" [[{{ essay.publisher }}]({{ essay.url }})] [<a target="_blank" href="{{ essay.pdf | relative_url }}">PDF</a>]
 
 {% endfor %}
 
