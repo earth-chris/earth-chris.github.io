@@ -13,8 +13,8 @@ It is surely far from comprehensive, but I will add resources here as I find the
 
 # Essays
 
-- Ta-Nehisi Coates, "The Case for Reparations." [[Atlantic](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)] [[PDF]({{ "pdf/reparations/2014-The-Case-for-Reparations.pdf" | relative_url }})].
-- Shennette Garrett-Scott, "What Price Wholeness?" [[NYRB](https://www.nybooks.com/articles/2021/02/11/what-price-wholeness/)] [[PDF]({{ "pdf/reparations/2021-What-Price-Wholeness.pdf" | relative_url }}")]
+- Ta-Nehisi Coates, "The Case for Reparations." [[Atlantic](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)] [[PDF]({{ "/pdf/reparations/2014-The-Case-for-Reparations.pdf" | relative_url }})].
+- Shennette Garrett-Scott, "What Price Wholeness?" [[NYRB](https://www.nybooks.com/articles/2021/02/11/what-price-wholeness/)] [[PDF]({{ "/pdf/reparations/2021-What-Price-Wholeness.pdf" | relative_url }}")]
 
 ---
 
