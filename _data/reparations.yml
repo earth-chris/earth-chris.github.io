@@ -11,6 +11,24 @@ books:
   gab: https://www.greenapplebooks.com/book/9780807009819
   sfpl: https://sfpl.bibliocommons.com/item/show/1424783093
 
+- title: The Price for Their Pound of Flesh
+  author: Daina Berry
+  publisher: Beacon Press
+  gab: https://www.greenapplebooks.com/book/9780807067147
+  sfpl: https://sfpl.bibliocommons.com/item/show/3307145093
+
+- title: "Why we Can't Wait"
+  author: Martin Luther King Jr.
+  publisher: Beacon Press
+  gab: https://www.greenapplebooks.com/book/9780451527530
+  sfpl: https://sfpl.bibliocommons.com/item/show/2589727093
+
+- title: By Any Means Necessary
+  author: Malcolm X
+  publisher: Pathfinder Press
+  gab: https://www.greenapplebooks.com/book/9780873487542
+  sfpl: https://sfpl.bibliocommons.com/item/show/1375496093
+
 essays:
 - author: Ta-Nehisi Coates
   title: The Case for Reparations
@@ -30,11 +48,29 @@ essays:
   pdf: /pdf/reparations/2019-Making-Good-on-the-Broken-Promise.pdf
   publisher: New York Review
 
+- author: James Forman
+  title: The Black Manifesto
+  url: https://www.nybooks.com/articles/1969/07/10/black-manifesto/
+  pdf: /pdf/reparations/1969-Black-Manifesto.pdf
+  publisher: The Black National Economic Conference
+
 - author: Jerry Frye
   title: 'The "Black Manifesto" and the Tactic of Objectification'
   url: https://doi.org/10.1177%2F002193477400500104
   pdf: /pdf/reparations/1973-Objectification.pdf
   publisher: Sage Publications
 
+- author: Republic of New Afrika
+  title: New Afrikan Declaration of Independence
+  url: https://www.aaihs.org/free-the-land-fifty-years-of-the-republic-of-new-afrika/
+  pdf: /pdf/reparations/1968-New-Afrika-Declaration.pdf
+  publisher: Black Perspectives
+
 organizations:
-- name:
+- name: National Coalition of Blacks for Reparations in America
+  acronym: "N’COBRA"
+  url: https://www.ncobraonline.org/
+
+- name: African American Intellectual History Society
+  acronym: AAIHS
+  url: https://www.aaihs.org/
