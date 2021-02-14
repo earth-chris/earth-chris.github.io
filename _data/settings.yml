@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Christopher Anderson
   site_tagline: Earth scientist
-  favicon_image: /images/satellite-favicon.png
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image: /images/satellite-icon.jpg
@@ -13,7 +13,7 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Updates'
+    - title: 'Notes'
       url: '/blog/'
 
 grid_settings:
