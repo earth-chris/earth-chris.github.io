@@ -5,6 +5,12 @@ books:
   gab: https://www.greenapplebooks.com/book/9781469654973
   sfpl: https://sfpl.bibliocommons.com/item/show/3930501093
 
+- title: The Case for Black Reparations
+  author: Boris Bittker
+  publisher: Random House
+  gab: https://www.greenapplebooks.com/book/9780807009819
+  sfpl: https://sfpl.bibliocommons.com/item/show/1424783093
+
 essays:
 - author: Ta-Nehisi Coates
   title: The Case for Reparations
@@ -23,3 +29,12 @@ essays:
   url: https://www.nybooks.com/daily/2019/03/18/making-good-on-the-broken-promise-of-reparations/
   pdf: /pdf/reparations/2019-Making-Good-on-the-Broken-Promise.pdf
   publisher: New York Review
+
+- author: Jerry Frye
+  title: 'The "Black Manifesto" and the Tactic of Objectification'
+  url: https://doi.org/10.1177%2F002193477400500104
+  pdf: /pdf/reparations/1973-Objectification.pdf
+  publisher: Sage Publications
+
+organizations:
+- name:
