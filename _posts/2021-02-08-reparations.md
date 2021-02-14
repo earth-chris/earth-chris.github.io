@@ -35,7 +35,7 @@ It is surely far from comprehensive, but I will add resources here as I find the
 
 {% for org in site.data.reparations.organizations %}
 
-{{ org.name }} [{{ org.acronym }}({{ org.url }})]
+{{ org.name }} [[{{ org.acronym }}]({{ org.url }})]
 
 {% endfor %}
 
