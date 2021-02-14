@@ -1,25 +1,25 @@
 books:
-    - title: From Here to Equality
-      author: William Darity Jr. and A. Kirsten Mullen
-      publisher: UNC Press
-      gab: https://www.greenapplebooks.com/book/9781469654973
-      sfpl: https://sfpl.bibliocommons.com/item/show/3930501093
+- title: From Here to Equality
+  author: William Darity Jr. and A. Kirsten Mullen
+  publisher: UNC Press
+  gab: https://www.greenapplebooks.com/book/9781469654973
+  sfpl: https://sfpl.bibliocommons.com/item/show/3930501093
 
 essays:
-    - author: Ta-Nehisi Coates
-      title: The Case for Reparations
-      url: https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/
-      pdf: /pdf/reparations/2014-The-Case-for-Reparations.pdf
-      publisher: The Atlantic
+- author: Ta-Nehisi Coates
+  title: The Case for Reparations
+  url: https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/
+  pdf: /pdf/reparations/2014-The-Case-for-Reparations.pdf
+  publisher: The Atlantic
 
-    - author: Shennette Garrett-Scott
-      title: What Price Wholeness?
-      url: https://www.nybooks.com/articles/2021/02/11/what-price-wholeness/
-      pdf: /pdf/reparations/2021-What-Price-Wholeness.pdf
-      publisher: New York Review
+- author: Shennette Garrett-Scott
+  title: What Price Wholeness?
+  url: https://www.nybooks.com/articles/2021/02/11/what-price-wholeness/
+  pdf: /pdf/reparations/2021-What-Price-Wholeness.pdf
+  publisher: New York Review
 
-    - author: Katherine Frank
-      title: Making Good on the Broken Promise of Reparations
-      url: https://www.nybooks.com/daily/2019/03/18/making-good-on-the-broken-promise-of-reparations/
-      pdf: /pdf/reparations/2019-Making-Good-on-the-Broken-Promise.pdf
-      publisher: New York Review
+- author: Katherine Frank
+  title: Making Good on the Broken Promise of Reparations
+  url: https://www.nybooks.com/daily/2019/03/18/making-good-on-the-broken-promise-of-reparations/
+  pdf: /pdf/reparations/2019-Making-Good-on-the-Broken-Promise.pdf
+  publisher: New York Review
