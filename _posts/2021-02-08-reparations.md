@@ -23,7 +23,7 @@ It is surely far from comprehensive, but I will add resources here as I find the
 
 {% for essay in site.data.reparations.essays %}
 
-- {{ essay.author }}, "{{ essay.title }}" [[{{ essay.publisher }}]({{ essay.url }})] [<a class="js-no-ajax" target="_blank" href="{{ essay.pdf | relative_url }}">PDF</a>]
+{{ essay.author }}, "{{ essay.title }}" [[{{ essay.publisher }}]({{ essay.url }})] [<a class="js-no-ajax" target="_blank" href="{{ essay.pdf | relative_url }}">PDF</a>]
 
 {% endfor %}
 
