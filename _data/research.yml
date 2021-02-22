@@ -4,10 +4,20 @@
     thumbnail: "/images/research/2020 Anderson Dissertation.jpg"
     url: '/pdf/2020 Anderson Dissertation.pdf'
 -
+    title: Hydrological ecosystem services resilience in the Amazon
+    journal: Idea Gráfica
+    thumbnail: "/images/2021 PRO Agua.jpg"
+    url: '/pdf/2021 PRO Agua.pdf'
+-
     title: Long-term shifts in tropical bird communities
     journal: Nature
     thumbnail: "/images/research/2020 Long term bird shifts.jpg"
     url: '/pdf/2020 Long term bird shifts.pdf'
+-
+    title: Technologies for immediate wildfire response
+    journal: Moore Foundation
+    thumbnail: "/images/2019 FIRS workshop report.jpg"
+    url: '/pdf/2019 FIRS workshop report.pdf'
 -
     title: Nature experience as an ecosystem service
     journal: Nature sustainability
@@ -105,9 +115,14 @@
     url: '/pdf/2015 Amazonian landscapes and the bias in field studies.pdf'
 -
     title: The carbon geography of Peru
-    journal: PNAS
+    journal: Ministry of Environment, Peru
     thumbnail: "/images/research/2014 The carbon geography of Peru.jpg"
     url: '/pdf/2014 The carbon geography of Peru.pdf'
+-
+    title: Targeted carbon conservation
+    journal: PNAS
+    thumbnail: "/images/2014 Targeted carbon conservation.jpg"
+    url: '/pdf/2014 Targeted carbon conservation.pdf'
 -
     title: Understory community mapping in Panama
     journal: Remote Sensing of Environment
@@ -148,6 +163,11 @@
     journal: Remote sensing of Environment
     thumbnail: "/images/research/2012 CAO-2.jpg"
     url: '/pdf/2012 CAO-2.pdf'
+-
+    title: Decadal Deforestation in Peru
+    journal: Ministry of Environment, Peru
+    thumbnail: "/images/research/2012 MINAM Deforestation Report.jpg"
+    url: '/pdf/2012 MINAM Deforestation Report.pdf'
 -
     title: Spectroscopy of canopy chemicals in the tropics
     journal: Remote sensing of Environment
