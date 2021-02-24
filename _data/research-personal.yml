@@ -1,10 +1,10 @@
 -
-    title: My CV
-    journal: Christopher B. Anderson
-    thumbnail: "/images/research/cv.jpg"
-    url: "/pdf/cv.pdf"
--
     title: My Dissertation
     journal: Stanford University
     thumbnail: "/images/research/2020 Anderson Dissertation.jpg"
     url: '/pdf/2020 Anderson Dissertation.pdf'
+-
+    title: My CV
+    journal: Christopher B. Anderson
+    thumbnail: "/images/research/cv.jpg"
+    url: "/pdf/cv.pdf"
