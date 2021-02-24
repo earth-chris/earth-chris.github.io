@@ -1,13 +1,18 @@
 -
-    title: Hydrological ecosystem services resilience in the Amazon
-    journal: Idea Gráfica
-    thumbnail: "/images/research/2021 PRO Agua.jpg"
-    url: '/pdf/2021 PRO Agua.pdf'
--
     title: Long-term shifts in tropical bird communities
     journal: Nature
     thumbnail: "/images/research/2020 Long term bird shifts.jpg"
     url: '/pdf/2020 Long term bird shifts.pdf'
+-
+    title: Environmental drivers of vector-borne disease
+    journal: Oxford University Press
+    thumbnail: "/images/2021 Environmental drivers of VBD.jpg"
+    url: 'https://www.amazon.com/Population-Biology-Vector-Borne-Diseases-Drake-dp-0198853254/dp/0198853254/'
+-
+    title: Hydrological ecosystem services resilience in the Amazon
+    journal: Idea Gráfica
+    thumbnail: "/images/research/2021 PRO Agua.jpg"
+    url: '/pdf/2021 PRO Agua.pdf'
 -
     title: Technologies for immediate wildfire response
     journal: Moore Foundation
@@ -34,7 +39,7 @@
     thumbnail: "/images/research/2018 Biodiversity monitoring and the ecology of scale.jpg"
     url: "/pdf/2018 Biodiversity monitoring and the ecology of scale.pdf"
 -
-    title: Do ecoregions contain different species
+    title: The biogeography of ecoregions
     journal: Nature Ecology and Evolution
     thumbnail: "/images/research/2018 Are ecoregions a thing.jpg"
     url: '/pdf/2018 Are ecoregions a thing.pdf'
