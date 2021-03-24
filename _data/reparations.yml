@@ -66,6 +66,12 @@ essays:
   pdf: /pdf/reparations/1968-New-Afrika-Declaration.pdf
   publisher: Black Perspectives
 
+- author: African American Reparations Commission
+  title: The Ten Point Plan
+  url: https://reparationscomm.org/reparations-plan/
+  pdf: /pdf/reparations/2015-NAARC-10-Point-Plan.pdf
+  publisher: NAARC
+
 organizations:
 - name: National Coalition of Blacks for Reparations in America
   acronym: "N’COBRA"
@@ -78,4 +84,3 @@ organizations:
 - name: National African American Reparation Commission
   acronym: NAARC
   url: https://reparationscomm.org/
-
