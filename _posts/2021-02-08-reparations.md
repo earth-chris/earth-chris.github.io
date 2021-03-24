@@ -11,7 +11,7 @@ It is surely far from comprehensive, but I will add resources here as I find the
 
 ---
 
-# Essays
+# Essays and Reports
 
 {% for essay in site.data.reparations.essays %}
 
