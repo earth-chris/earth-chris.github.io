@@ -76,7 +76,7 @@ essays:
   title: Reparations Now Toolkit
   url: https://m4bl.org/wp-content/uploads/2020/05/Reparations-Now-Toolkit-FINAL.pdf
   pdf: /pdf/reparations/2019-Reparations-Now-Toolkit.pdf
-  publisher: Movement for Black Lives
+  publisher: M4BL
 
 - author: "N'COBRA"
   title: The HR40 Primer
@@ -96,3 +96,15 @@ organizations:
 - name: National African American Reparation Commission
   acronym: NAARC
   url: https://reparationscomm.org/
+
+- name: Institute for the Black World 21st Century
+  acronym: IBW21
+  url: https://ibw21.org/
+
+- name: Movement for Black Lives
+  acronym: M4BL
+  url: https://m4bl.org/
+
+- name: Black is Back Coalition
+  acronym: BBC
+  url: https://blackisbackcoalition.org/
