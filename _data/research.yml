@@ -4,6 +4,11 @@
     thumbnail: "/images/research/2020 Long term bird shifts.jpg"
     url: '/pdf/2020 Long term bird shifts.pdf'
 -
+    title: Nature experience as an ecosystem service
+    journal: Nature sustainability
+    thumbnail: "/images/research/2019 Nature and mental health.jpg"
+    url: '/pdf/2019 Nature and mental health.pdf'
+-
     title: Environmental drivers of vector-borne disease
     journal: Oxford University Press
     thumbnail: "/images/research/2021 Environmental drivers of VBD.jpg"
@@ -14,15 +19,15 @@
     thumbnail: "/images/research/2021 PRO Agua.jpg"
     url: '/pdf/2021 PRO Agua.pdf'
 -
+    title: Improving wildland-urban interface resilience
+    journal: Fire Protection Research Foundation
+    thumbnail: "/images/research/2021 WUI resilience.jpg"
+    url: '/pdf/2021 WUI resilience.jpg'
+-
     title: Technologies for immediate wildfire response
     journal: Moore Foundation
     thumbnail: "/images/research/2019 FIRS workshop report.jpg"
     url: '/pdf/2019 FIRS workshop report.pdf'
--
-    title: Nature experience as an ecosystem service
-    journal: Nature sustainability
-    thumbnail: "/images/research/2019 Nature and mental health.jpg"
-    url: '/pdf/2019 Nature and mental health.pdf'
 -
     title: Frontiers for earth observations in ecosystem services
     journal: Science of the Total Environment
