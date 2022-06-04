@@ -34,7 +34,7 @@
 
 		<div class="projects-menu">
 			<ul class="menu__list">
-				{% for project in site.projects reversed %}
+				{% for project in site.projects %}
 				<li class="menu__list__item">
 					<a href="{{ project.url | relative_url }}" class="menu__list__item__link">{{ project.title }}</a>
 				</li>
