@@ -1,4 +1,9 @@
 -
+    title: elapid
+    description: Species distribution modeling in python
+    thumbnail: "/images/software/elapid.jpg"
+    url: "https://github.com/earth-chris/elapid"
+-
     title: earthlib
     description: Spectral libraries for global land cover mapping
     thumbnail: "/images/software/earthlib.jpg"
@@ -9,12 +14,7 @@
     thumbnail: "/images/software/dichot.jpg"
     url: "https://github.com/earth-chris/dichot"
 -
-    title: elapid
-    description: Python wrapper for Maxent SDM software
-    thumbnail: "/images/software/elapid.jpg"
-    url: "https://github.com/earth-chris/elapid"
--
-    title: cfo-api
-    description: Python access to the Forest Observatory API
-    thumbnail: "/images/software/cfo-api.jpg"
-    url: "https://github.com/forestobservatory/cfo-api"
+    title: giants
+    description: Simple machine learning optimization
+    thumbnail: "/images/software/giants.jpg"
+    url: "https://github.com/forestobservatory/giants"
