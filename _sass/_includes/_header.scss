@@ -17,7 +17,7 @@
 		top: 0;
 		left: 0;
 		bottom: 0;
-		width: 33%;
+		width: 30%;
 		padding: 0;
 	}
 }
@@ -27,11 +27,11 @@
 	@include mq(tabletl) {
 		position: relative;
 		min-height: 100vh;
-		padding: 40px 40px 135px;
+		padding: 35px 35px 125px;
 	}
 
 	@include mq(laptop) {
-		padding: 60px 60px 145px;
+		padding: 40px 40px 135px;
 	}
 }
 
@@ -69,7 +69,7 @@
 		font-size: $sitetitle-medium;
 		margin-top: 30px;
 	}
-	
+
 	@include mq(tabletl) {
         margin-top: 0px;
     }
@@ -80,7 +80,7 @@
 }
 
 .header__tagline {
-	margin-top: 20px;
+	margin-top: 10px;
 	font-size: $sitetagline-small;
 	font-weight: $sitetagline-weight;
 	letter-spacing: $sitetagline-spacing;
@@ -92,7 +92,7 @@
 	}
 
 	@include mq(laptop) {
-		margin-top: 30px;
+		margin-top: 15px;
 		font-size: $sitetagline-large;
 	}
 }
@@ -102,7 +102,7 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
 .menu {
-	
+
 	@include mq(tabletl) {
 		margin-top: 20px;
 	}
@@ -126,7 +126,7 @@
 		top: 40px;
 		right: 40px;
 	}
-	
+
 	@include mq(tabletl) {
 		display: none;
 	}
@@ -164,16 +164,16 @@
 	span:before, span:after {
 		background: $overlay-text-color !important;
 	}
-		
+
 	span {
 		background-color: transparent !important;
 	}
-	
+
 	span:before,
 	span:after {
 		top: 0;
 	}
-	
+
 	span:before {
 		@include rotate(45);
 	}
@@ -254,7 +254,7 @@
 	@include mq(laptop) {
 		font-size: $menu-large;
 	}
-	
+
 	&.active-link {
 		color: $overlay-accent-color;
 
@@ -282,7 +282,7 @@
 
 .projects-menu {
 	display: none;
-	
+
 	@include mq(tabletl) {
 		display: block;
 		margin-top: 20px;
