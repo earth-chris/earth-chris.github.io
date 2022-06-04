@@ -5,7 +5,7 @@ description: A set of links and other resources for discourse on reparations in 
 featured_image: '/images/posts/liberation-cycle.jpg'
 ---
 
-I'm collecting the following resources to serve as a reference library as I begin the journey—personally, professionally & politically—to make our nation and our world more whole and more just through reparations.
+Below is a reference library of materials on reparations, which will be necessary to make our nation and our world more whole and more just.
 
 It is surely far from comprehensive, but I will add resources here as I find them or as they're shared with me. I hope you, too, find them useful.
 
