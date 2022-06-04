@@ -73,7 +73,7 @@ essays:
   publisher: NAARC
 
 - author: Andrea Ritchie et al.
-  title: Reparations Now Toolkit
+  title: The Reparations Now! Toolkit
   url: https://m4bl.org/wp-content/uploads/2020/05/Reparations-Now-Toolkit-FINAL.pdf
   pdf: /pdf/reparations/2019-Reparations-Now-Toolkit.pdf
   publisher: M4BL
@@ -83,6 +83,12 @@ essays:
   url: https://ibw21.org/docs/naarc/NCOBRA-HR40-Primer.pdf
   pdf: /pdf/reparations/2020-HR40-Primer.pdf
   publisher: "N'COBRA"
+
+- author: California Reparations Task Force
+  title: Interim Report on Developing Reparations Proposals for African Americans
+  url: https://www.sfchronicle.com/bayarea/article/california-reparations-report-17216426.php
+  pdf: /pdf/reparations/2022-California-Task-Force-Interim.pdf
+  publisher: SF Chronicle
 
 organizations:
 - name: National Coalition of Blacks for Reparations in America
