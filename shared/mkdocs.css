@@ -4,6 +4,8 @@
   --orange: #ff9030;
   --black:  #222222;
   --white:  #EEEEEE;
+  --dark-grey: #303030;
+  --light-grey: #FFFFFF;
 }
 
 .md-typeset a {
@@ -18,6 +20,7 @@
   --md-primary-bg-color: var(--white);
   --md-accent-fg-color:  var(--orange);
   --md-typeset-a-color:  var(--dark-blue);
+  --md-code-bg-color: var(--light-grey);
 }
 
 [data-md-color-scheme="slate"] {
@@ -29,4 +32,5 @@
   --md-primary-bg-color: var(--white);
   --md-accent-fg-color:  var(--orange);
   --md-typeset-a-color:  var(--blue);
+  --md-code-bg-color: var(--dark-grey);
 }
