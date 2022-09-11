@@ -19,4 +19,4 @@ I co-founded [Salo Sciences](https://salo.ai), a conservation technology company
 
 Thanks for reading.
 
-<img src="/images/dichotomous-key.png">
+<img style="max-width:10em;" src="/images/dichotomous-key.png">
