@@ -13,7 +13,7 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Notes'
+    - title: 'News'
       url: '/blog/'
 
 grid_settings:
