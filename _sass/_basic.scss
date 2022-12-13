@@ -342,15 +342,17 @@ body.loading {
 
 .page,
 .page__content {
-	float: left;
+	//float: left;
+	margin: auto;
 	clear: both;
 	width: 100%;
+	max-width: 2000px;
 }
 
 .page {
 
 	@include mq(tabletl) {
-		padding-left: 30%;
+		padding-left: min(30%, 400px);
 	}
 }
 
@@ -388,7 +390,7 @@ section {
 	}
 
 	@include mq(laptop) {
-		
+
 	}
 }
 
