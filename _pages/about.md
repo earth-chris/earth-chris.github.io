@@ -7,9 +7,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 <img src="/images/pages/map-seated.jpg">
 
-Hello! I'm Christopher, a global ecologist.
+Hello, it's nice to meet you. I'm Christopher.
 
-My personal mission is to build forest monitoring technologies that provide insights into how the world's ecosystems are changing and how we, as people, change with them.
+I build forest mapping technologies that provide insights into how the world's ecosystems are changing and how we, as people, change with them. From space.
 
 I'm the Science Lead for Forest Ecosystems at [Planet](https://www.planet.com/products/planetary-variables/), a premier satellite earth observations company. Previously I was co-founder and CTO of [Salo Sciences](https://salo.ai), a conservation technology company acquired by Planet, where I designed and built the [Forest Observatory](https://www.forestobservatory.com).
 
