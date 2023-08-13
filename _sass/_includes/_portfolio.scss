@@ -10,12 +10,11 @@
 }
 
 .portfolio-wrap {
-	
+
 }
 
 .portfolio-item {
 	position: relative;
-	padding: $grid-spacing/2;
 	float: left;
 	width: 50%;
 }
@@ -38,14 +37,15 @@
 
 .portfolio-item__image {
 	width: 100%;
+	padding: $grid-spacing/2;
 }
 
 .portfolio-item__content {
 	position: absolute;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
+	top: $grid-spacing/2;
+	right: $grid-spacing/2;
+	bottom: $grid-spacing/2;
+	left: $grid-spacing/2;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -77,7 +77,7 @@
 
 .portfolio-item__subtitle {
 	margin-top: 5px;
-	color: rgba($overlay-text-color, 0.7);
+	color: rgba($overlay-text-color, 0.8);
 	font-size: $grid-item-subtitle-small;
 	font-weight: $grid-item-subtitle-weight;
 	letter-spacing: $grid-item-subtitle-spacing;
