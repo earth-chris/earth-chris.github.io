@@ -1,7 +1,7 @@
 ---
 title: 'Photography'
 subtitle: 'From above and below'
-date: 2021-01-03 00:00:00
+date: 2021-01-04 00:00:00
 description: Nature photography from the ground and from the sky.
 featured_image: "/images/photography/amazon.jpg"
 ---
