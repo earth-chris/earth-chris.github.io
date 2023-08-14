@@ -9,6 +9,11 @@
     thumbnail: "/images/software/earthlib.jpg"
     url: "https://github.com/earth-chris/earthlib"
 -
+    title: xleaf
+    description: Leaf and canopy radiative transfer modeling tools
+    thumbnail: "/images/software/xleaf.png"
+    url: "https://github.com/earth-chris/xleaf"
+-
     title: dichot
     description: Machine learning tools for species classification
     thumbnail: "/images/software/dichot.jpg"
