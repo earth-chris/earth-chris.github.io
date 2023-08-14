@@ -1,12 +1,12 @@
 -
     title: elapid
     description: Species distribution modeling in python
-    thumbnail: "/images/software/elapid.jpg"
+    thumbnail: "/images/software/elapid.png"
     url: "https://github.com/earth-chris/elapid"
 -
     title: earthlib
     description: Spectral libraries for global land cover mapping
-    thumbnail: "/images/software/earthlib.jpg"
+    thumbnail: "/images/software/earthlib.png"
     url: "https://github.com/earth-chris/earthlib"
 -
     title: xleaf
