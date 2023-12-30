@@ -101,8 +101,8 @@
 	
 	.gallery__item {
 		float: left;
-		width: 50%;
-		padding: $grid-spacing/2;
+		width: calc(50% - #{$grid_spacing/2});
+		padding: $grid-spacing/4;
 	}
 
 	.gallery__item__link {
@@ -113,20 +113,20 @@
 	&[data-columns="3"] {
 
 		.gallery__item {
-			width: 33.33%;
+			width: calc(33.33% - #{$grid_spacing/2});
 		}
 	}
 
 	&[data-columns="4"] {
 
 		.gallery__item {
-			width: 33.33%;
+			width: calc(33.33% - #{$grid_spacing/2});
 		}
 
 		@include mq(tabletp) {
 
 			.gallery__item {
-				width: 25%;
+				width: calc(25% - #{$grid_spacing/2});
 			}
 		}
 	}
