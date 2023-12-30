@@ -68,8 +68,8 @@ color_settings:
   error_color: '#ff9030'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,500" rel="stylesheet">'
-  title_font: '"Nunito", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito|Raleway" rel="stylesheet">'
+  title_font: '"Raleway", sans-serif'
   body_font: '"Nunito", sans-serif'
   regular_weight: 300
   bold_weight: 500
@@ -77,7 +77,7 @@ font_settings:
     small_size: 20
     medium_size: 24
     large_size: 30
-    weight: 500
+    weight: 300
     letter_spacing: -0.02
   site_tagline:
     small_size: 14
@@ -90,13 +90,13 @@ font_settings:
     small_size: 30
     medium_size: 15
     large_size: 16
-    weight: 500
+    weight: 300
     letter_spacing: 0
   grid_item_title:
     small_size: 22
     medium_size: 26
     large_size: 30
-    weight: 500
+    weight: 400
     letter_spacing: -0.02
   grid_item_subtitle:
     small_size: 15
@@ -108,21 +108,21 @@ font_settings:
     small_size: 25
     medium_size: 35
     large_size: 45
-    weight: 500
+    weight: 300
     letter_spacing: -0.02
     line_height: 1.2
   h2:
     small_size: 22
     medium_size: 30
     large_size: 35
-    weight: 500
+    weight: 400
     letter_spacing: -0.02
     line_height: 1.2
   h3:
     small_size: 22
     medium_size: 25
     large_size: 30
-    weight: 500
+    weight: 400
     letter_spacing: -0.02
     line_height: 1.3
   h4:
@@ -154,12 +154,12 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   blockquote:
-    small_size: 20
-    medium_size: 25
-    large_size: 35
+    small_size: 18
+    medium_size: 20
+    large_size: 24
     weight: 300
     letter_spacing: -0.02
-    line_height: 1.6
+    line_height: 1.5
   buttons:
     weight: 500
     letter_spacing: 0
