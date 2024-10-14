@@ -21,7 +21,7 @@ This website is a portfolio of the work I've done to this end, where I've focuse
 
 You can read more about the scientific publications I've led or co-authored in the [Research](/project/research) section. The [Design](/project/design) section features digital artwork and scientific figures I've created. You can learn more about the open source [Software](/project/software) I've developed for earth science. Browse a collection of featured [Photography](/project/photography) from my travels to forests around the world. Read about how this work has been received in the [Media](/project/media) section.
 
-To get in touch, please use any of the linked social accounts (for mobile, see the links on the bottom of the page. for web, see the links in the lower left corner).
+To get in touch, please use the linked social accounts. For mobile, see the links on the bottom of the page. For web, see the links in the lower left corner.
 
 Thanks for reading.
 
