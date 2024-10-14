@@ -39,6 +39,9 @@
 .blog-post__image {
 	width: 100%;
 	padding: $grid-spacing/2;
+	img {
+		margin: auto;
+	}
 }
 
 .blog-post__content {
