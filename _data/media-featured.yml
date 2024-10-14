@@ -1,0 +1,28 @@
+-
+  outlet: The Economist
+  title: Can the voluntary carbon market save the Amazon?
+  date: Sep. 19, 2024
+  url: https://www.economist.com/the-americas/2024/09/19/can-the-voluntary-carbon-market-save-the-amazon
+  thumbnail: "/images/media/economist-diligence.png"
+  quote: '"Doubts also linger about how to measure sequestration. Many credit issuers use methodologies based on temperate forests, which capture less carbon than tropical jungles. Some companies are beginning to use satellite imagery and lidar to estimate carbon stocks. But such sophisticated tools are not yet widespread."'
+-
+  outlet: Mongabay
+  title: Clearest picture yet of Amazon carbon density could help guide conservation
+  date: Sep. 11, 2024
+  url: https://news.mongabay.com/2024/09/clearest-picture-yet-of-amazon-carbon-density-could-help-guide-conservation/
+  thumbnail: "/images/media/mongabay-maap.png"
+  quote: “'The finding from MAAP that the Amazon remains a net carbon sink is reason for cautious optimism, even while forest loss in the region has remained high over the past decade,' wrote Christopher Anderson, science lead for the forest ecosystems team at Planet.”
+-
+  outlet: Power Magazine
+  title: How PG&E Is Reducing Wildfire Risks Using Satellite Imagery
+  date: May 20, 2024
+  url: https://www.powermag.com/how-pge-is-reducing-wildfire-risks-using-satellite-imagery/
+  thumbnail: "/images/media/powerline.jpg"
+  quote: “With such a large area and so many trees to monitor, PG&E turned to Planet Labs, a San Francisco-based provider of global, daily satellite imagery and geospatial solutions, for help. Planet’s satellite-derived data on vegetation, including canopy height, cover, and proximity to electric-system infrastructure, is used by PG&E to prioritize the mitigation of vegetation-associated risks.”
+-
+  outlet: The Economist
+  title: Trees alone will not save the world
+  date: Nov. 20, 2023
+  url: https://www.economist.com/special-report/2023/11/20/trees-alone-will-not-save-the-world
+  thumbnail: "/images/media/trees-alone.jpg"
+  quote: '"There are some good science people giving forest-carbon removals a new opportunity to show how best they can work. Chris Anderson, an ecologist from Stanford, was one of the founders of Salo Sciences, a startup which developed machine-learning algorithms to turn pictures of forests into quantified estimates of the amount of carbon stored in them."'
