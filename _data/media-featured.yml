@@ -18,7 +18,14 @@
   date: May 20, 2024
   url: https://www.powermag.com/how-pge-is-reducing-wildfire-risks-using-satellite-imagery/
   thumbnail: "/images/media/powerline.jpg"
-  quote: “With such a large area and so many trees to monitor, PG&E turned to Planet Labs, a San Francisco-based provider of global, daily satellite imagery and geospatial solutions, for help. Planet’s satellite-derived data on vegetation, including canopy height, cover, and proximity to electric-system infrastructure, is used by PG&E to prioritize the mitigation of vegetation-associated risks.”
+  quote: “With such a large area and so many trees to monitor, PG&E turned to Planet Labs for help. Planet’s satellite-derived data on vegetation, including canopy height, cover, and proximity to electric-system infrastructure, is used by PG&E to prioritize the mitigation of vegetation-associated risks.”
+-
+  outlet: New York Review of Books
+  title: The Digital Planet
+  date: Apr. 18, 2024
+  url: https://www.nybooks.com/articles/2024/04/18/the-digital-planet-environmentalism-from-below/
+  thumbnail: "/images/media/gaias-web.jpg"
+  quote: '"Digital tools can also provide earlier and more accurate warnings of climate-related disasters: the San Francisco–based satellite company Planet runs the California Forest Observatory, which plans to monitor and predict wildfire risk using highly detailed, continuously updated maps of the state’s forests."'
 -
   outlet: The Economist
   title: Trees alone will not save the world
