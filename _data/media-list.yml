@@ -1,4 +1,29 @@
 -
+  outlet: Cecil Earth
+  title: "Cecil and Earthscale partner to support global portfolio-level risk workflows"
+  date: Feb. 4, 2026
+  url: https://www.linkedin.com/pulse/cecil-earthscale-partner-support-global-portfolio-level-risk-08vwc/
+-
+  outlet: Atmos
+  title: "AI Is Making The Climate Crisis Worse. It Could Also Help Fix It."
+  date: Jan. 26 2026
+  url: https://atmos.earth/climate-solutions/ai-is-making-the-climate-crisis-worse-it-could-also-help-fix-it/
+-
+  outlet: East Africa Journal
+  title: "Kenya Space Agency Rolls Out Project Centinela to Enhance Mountain Bongo Conservation"
+  date: Jan. 23, 2026
+  url: https://eastafricajournal.co.ke/2026/01/23/kenya-space-agency-rolls-out-project-centinela-to-enhance-mountain-bongo-conservation/
+-
+  outlet: The Standard (Kenya)
+  title: "Satellites deployed to protect Kenya's endangered mountain bongos"
+  date: Jan. 18, 2026
+  url: https://www.standardmedia.co.ke/environment-climate/article/2001538795/satellites-deployed-to-protect-kenyas-endangered-mountain-bongos
+-
+  outlet: Planet Pulse
+  title: "How Governments Can Build Forest Resilience with Near-Daily, High-Resolution Monitoring"
+  date: Nov. 25, 2025
+  url: https://www.planet.com/pulse/in-conversation-how-governments-can-build-forest-resilience-with-near-daily-high-resolution/
+-
   outlet: Planet Pulse
   title: "Scaling Climate Action in the Amazon: Planet and Partners Lead Regional Innovation in Support of COP-30"
   date: Nov. 19, 2025
@@ -64,10 +89,25 @@
   date: Dec. 09, 2024
   url: https://news.mongabay.com/2024/12/satellites-and-lidar-get-ai-boost-to-count-forest-carbon-stock-worldwide/
 -
+  outlet: Carbon Credits
+  title: "Laconic Teams Up with Planet to Revolutionize Forest Carbon Insights for Smarter Carbon Credits Trading"
+  date: Dec. 4, 2024
+  url: https://carboncredits.com/laconic-teams-up-with-planet-to-revolutionize-forest-carbon-insights-for-smarter-carbon-credits-trading/
+-
+  outlet: Swift Geospatial
+  title: "Transforming Sustainability with Forest Carbon: Powered by Planet, Delivered by Swift Geospatial"
+  date: Nov. 28, 2024
+  url: https://swiftgeospatial.solutions/2024/11/28/transforming-sustainability-with-forest-carbon-powered-by-planet-delivered-by-swift-geospatial/
+-
   outlet: Planet Pulse
   title: How Forest Carbon Data Helps Bridge Observation to Action
   date: Nov. 15, 2024
   url: https://www.planet.com/pulse/how-forest-carbon-data-helps-bridge-observation-to-action/
+-
+  outlet: Mongabay
+  title: "Satellite firm Planet’s ‘biodiversity subscription’ aims to make tech accessible"
+  date: Oct. 29, 2024
+  url: https://news.mongabay.com/2024/10/satellite-firm-planets-biodiversity-subscription-aims-to-make-tech-accessible/
 -
   outlet: New Scientist
   title: The Amazon is Teetering on the Edge of a Climate Tipping Point
@@ -79,10 +119,20 @@
   date: Oct. 28, 2024
   url: https://www.maaproject.org/amazon-carbon-loss-gain/
 -
+  outlet: Ma Earth
+  title: "Forest Carbon Monitoring from Space"
+  date: Oct. 20, 2024
+  url: https://maearth.com/studio/will-marshall-planet-forest-carbon-monitoring
+-
   outlet: Planet Pulse
   title: "Forest Carbon Monitoring: A Dove’s-Eye View Of Global Forest Change"
   date: Sep. 27, 2024
   url: https://www.planet.com/pulse/forest-carbon-monitoring-a-doves-eye-view-of-global-forest-change/
+-
+  outlet: Snapshots
+  title: "Issue 142: Forest Carbon + Arctic Melting + First Light + Serpentine Rivers"
+  date: Sep. 26, 2024
+  url: https://medium.com/@planetsnapshots/issue-142-forest-carbon-arctic-melting-first-light-serpentine-rivers-703d98a3f6cf
 -
   outlet: Via Satellite
   title: Planet Debuts Forest Carbon Monitoring Product to Inform Carbon Markets
@@ -164,10 +214,20 @@
   date: Apr. 08, 2024
   url: https://investors.planet.com/news/news-details/2024/From-Miles-Above-Satellite-Data-Helps-Spot-Hazardous-Trees-and-Reduce-Wildfire-Risk-2024-KXxM0Y-O94/default.aspx
 -
+  outlet: Geo Week News
+  title: "Planet releases forest carbon diligence product"
+  date: Dec. 7, 2023
+  url: https://www.geoweeknews.com/news/planet-labs-satellite-imagery-forest-carbon-machine-learning
+-
   outlet: The Economist
   title: Trees alone will not save the world
   date: Nov. 20, 2023
   url: https://www.economist.com/special-report/2023/11/20/trees-alone-will-not-save-the-world
+-
+  outlet: Snapshots
+  title: "Issue 101: Forest Carbon"
+  date: Nov. 16, 2023
+  url: https://medium.com/@planetsnapshots/issue-101-forest-carbon-16167f9148e8
 -
   outlet: Via Satellite
   title: Planet Releases New Forest Carbon Diligence Dataset, Archiving 10 Years of Carbon Data
@@ -204,10 +264,10 @@
   date: May 22, 2021
   url: https://lidarmag.com/2021/05/22/new-views-of-californias-forests/
 -
-  outlet: The Print
-  title: AI can worsen climate crisis, but these 4 steps can help us use it responsibly
-  date: Apr. 26, 2021
-  url: https://theprint.in/environment/ai-can-worsen-climate-crisis-but-these-4-steps-can-help-us-use-it-responsibly/646233/
+  outlet: World Economic Forum
+  title: "4 steps to using AI in an environmentally responsible way"
+  date: Apr. 1, 2021
+  url: https://www.weforum.org/stories/2021/04/4-steps-to-using-ai-in-an-environmentally-responsible-way-artificial-intelligence-bcg-code-carbon/
 -
   outlet: Bloomberg Businessweek
   title: Wildfires Are Close to Torching the Insurance Industry in California
